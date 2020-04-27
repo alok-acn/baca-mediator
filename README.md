@@ -1,2 +1,1 @@
-# baca-mediator
-BACA case study
+"# denim-compute-baca-mediator" 
